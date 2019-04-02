@@ -1,3 +1,2 @@
 now I have written a text.
 I added text.
-It changed.
